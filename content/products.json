@@ -25,8 +25,16 @@
       "enabled": true
     },
     {
-      "type": "product-specifications",
-      "enabled": true
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2022-08-31-at-14.27.49.jpeg"
+        }
+      ]
     }
   ]
 }
