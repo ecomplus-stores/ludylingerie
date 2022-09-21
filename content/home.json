@@ -25,10 +25,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "630f9c5773321213f8604825:categories:10% OFF:/10-off",
@@ -37,6 +33,10 @@
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
