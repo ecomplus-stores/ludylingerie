@@ -3,15 +3,14 @@
     "text": "Valorizando seu momento mais íntimo",
     "link": "",
     "background": "#da2798",
-    "color": "#151515"
+    "color": "#f6f2ef"
   },
   "contacts_stripe": {
     "pages": [
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
-      },
-      {}
+      }
     ],
     "phone_wpp": true,
     "socials": true
