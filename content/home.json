@@ -31,12 +31,28 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
+      "collection_id": "630f9c5773321213f8604825:categories:10% OFF:/10-off",
+      "sort": "highest_price",
       "title": "",
       "headless": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Demillus:/demillus",
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "630e6aa073321213f85ebe12:categories:Lançamento:/lancamento",
+      "sort": "news"
     },
     {
       "type": "page-title",
