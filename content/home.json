@@ -4,23 +4,23 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 0,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "img": "/img/uploads/whatsapp-image-2022-08-31-at-14.27.50-1-.jpeg",
+          "link": "",
+          "alt": "",
+          "start": "",
+          "end": "",
+          "mobile_img": ""
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
+          "img": "/img/uploads/whatsapp-image-2022-08-31-at-14.27.50.jpeg",
           "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": ""
         }
       ]
     },
