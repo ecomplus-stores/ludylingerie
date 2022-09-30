@@ -42,6 +42,10 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2022-09-30-at-12.01.29.jpeg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
