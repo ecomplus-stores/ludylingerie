@@ -3,26 +3,8 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 0,
-      "full_width": true,
-      "slides": [
-        {
-          "img": "/img/uploads/whatsapp-image-2022-08-31-at-14.27.50-1-.jpeg",
-          "link": "",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2022-08-31-at-14.27.50.jpeg",
-          "alt": "Banner sample two",
-          "mobile_img": ""
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2022-09-30-at-12.01.30.jpeg"
     },
     {
       "type": "page-title",
@@ -32,8 +14,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "630f9c5773321213f8604825:categories:10% OFF:/10-off",
-      "sort": "highest_price",
+      "collection_id": "62bb3d9deb859112166a9d18:categories:Gestante:/gestante",
+      "sort": "news",
       "title": "",
       "headless": false,
       "limit": 12,
@@ -48,7 +30,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Demillus:/demillus",
+      "collection_id": "61d9cc650c7c727225fa8098:categories:Shorts Doll:/shorts-doll",
       "sort": "sales"
     },
     {
@@ -56,12 +38,16 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "collection_id": "630e6aa073321213f85ebe12:categories:Lançamento:/lancamento",
+      "collection_id": "61d9cc5a0c7c727225fa8086:categories:Camisolas:/camisolas",
       "sort": "news"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "6336fa0d73321213f8959021:categories:Linha Premium Duzani:/linha-premium-duzani",
+      "sort": "lowest_price"
     }
   ]
 }
