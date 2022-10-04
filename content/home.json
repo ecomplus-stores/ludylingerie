@@ -60,6 +60,11 @@
       "page": 1,
       "collection_id": "6336fa0d73321213f8959021:categories:Linha Premium Duzani:/linha-premium-duzani",
       "sort": "views"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "lowest_price"
     }
   ]
 }
