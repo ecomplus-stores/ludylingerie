@@ -34,6 +34,14 @@
       "sort": "views"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size",
+      "sort": "highest_price"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/whatsapp-image-2022-09-30-at-12.01.29.jpeg"
     },
