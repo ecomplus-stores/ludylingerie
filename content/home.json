@@ -42,16 +42,12 @@
       "sort": "views"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2022-09-30-at-12.01.29.jpeg"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 2,
       "collection_id": "630e6aa073321213f85ebe12:categories:Lançamento:/lancamento",
-      "sort": "lowest_price"
+      "sort": "highest_price"
     },
     {
       "type": "collection-shelf",
