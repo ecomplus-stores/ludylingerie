@@ -2,6 +2,7 @@
   "domain": "ludylingerie.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "#e346a8",
+  "repository": "ecomplus-stores/ludylingerie",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
