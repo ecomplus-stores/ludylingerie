@@ -50,7 +50,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "lowest_price"
+      "sort": "sales"
     }
   ]
 }
