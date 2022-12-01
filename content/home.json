@@ -61,6 +61,10 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2022-12-01-at-11.34.57-1-.jpeg"
     }
   ]
 }
