@@ -28,8 +28,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "61d9cc5a0c7c727225fa8086:categories:Camisolas:/camisolas",
-      "sort": "news"
+      "collection_id": "61d9cc1a0c7c727225fa8017:categories:Calcinhas:/calcinhas",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
