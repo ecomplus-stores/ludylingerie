@@ -23,6 +23,14 @@
     {
       "type": "product-description",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/whatsapp-image-2022-12-01-at-11.34.57-1-.jpeg"
+        }
+      ]
     }
   ]
 }
