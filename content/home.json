@@ -64,9 +64,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1
+      "shuffle": true,
+      "limit": 24,
+      "page": 4
     }
   ]
 }
