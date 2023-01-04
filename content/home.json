@@ -66,6 +66,15 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/20230103_155546_0000.png",
+          "link": "https://ludylingerie.netlify.app/camisolas"
+        }
+      ]
     }
   ]
 }
