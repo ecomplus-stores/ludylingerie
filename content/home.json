@@ -3,22 +3,22 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/20230103_155546_0000.png",
-      "link": "https://ludylingerie.netlify.app/camisolas"
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/20230103_155546_0000.png",
+          "link": "https://ludylingerie.netlify.app/camisolas"
+        },
+        {
+          "img": "/img/uploads/20230103_155546_0001.png",
+          "link": "https://ludylingerie.netlify.app/shorts-doll-animal-print"
+        }
+      ]
     },
     {
       "type": "page-title",
       "title": "Seja Bem vinda(o) ",
       "description": "Somos uma loja que nasceu para levantar sua autoestima, valorizando o seu momento mais íntimo seja qual for ele, trazendo para você conforto e segurança! "
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": "6388d70273321213f8fe5cac:categories:Especial Fim de Ano:/especial-final-de-ano",
-      "sort": "lowest_price"
     },
     {
       "type": "info-bar",
@@ -66,19 +66,6 @@
       "shuffle": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/20230103_155546_0000.png",
-          "link": "https://ludylingerie.netlify.app/camisolas"
-        },
-        {
-          "img": "/img/uploads/20230103_155546_0001.png",
-          "link": "https://ludylingerie.netlify.app/shorts-doll-animal-print"
-        }
-      ]
     }
   ]
 }
