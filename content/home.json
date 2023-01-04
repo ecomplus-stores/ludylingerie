@@ -41,6 +41,11 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/png_20230104_172218_0000.png",
+      "link": "https://ludylingerie.netlify.app/sutia-com-bojo-soft-modelo-conforto-sem-aro"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -56,11 +61,6 @@
       "collection_id": "61d9cc4b0c7c727225fa806d:categories:Conjuntos:/conjuntos",
       "sort": "lowest_price",
       "headless": false
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/png_20230104_172218_0000.png",
-      "link": "https://ludylingerie.netlify.app/sutia-com-bojo-soft-modelo-conforto-sem-aro"
     },
     {
       "type": "collection-shelf",
