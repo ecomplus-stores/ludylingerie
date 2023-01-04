@@ -48,10 +48,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 12,
-      "page": 2,
+      "limit": 24,
+      "page": 4,
       "collection_id": "62322c1f8bd0103c54fbeea9:categories:Demillus:/demillus",
-      "sort": "slug"
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
