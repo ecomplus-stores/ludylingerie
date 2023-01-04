@@ -27,10 +27,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 24,
-      "page": 4,
-      "collection_id": "61d9cc1a0c7c727225fa8017:categories:Calcinhas:/calcinhas",
-      "sort": "news"
+      "limit": 15,
+      "page": 2,
+      "collection_id": "625ef44d3da6d37bc2ed765c:categories:Acessórios:/acessorios",
+      "sort": "highest_price"
     },
     {
       "type": "collection-shelf",
