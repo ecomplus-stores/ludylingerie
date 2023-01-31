@@ -3,11 +3,14 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banners-grid",
-      "banners": [
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": false,
+      "slides": [
         {
-          "img": "/img/uploads/whatsapp-image-2023-01-31-at-11.28.05-1-.jpeg",
-          "link": "https://ludylingerie.netlify.app/camisolas"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-01-31-at-11.28.05-1-.jpeg"
         }
       ]
     },
