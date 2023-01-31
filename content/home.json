@@ -46,6 +46,11 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2023-01-31-at-11.28.04.jpeg",
+      "link": "https://ludylingerie.netlify.app/demillus"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
