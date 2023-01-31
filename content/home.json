@@ -17,6 +17,15 @@
       "description": "Somos uma loja que nasceu para levantar sua autoestima, valorizando o seu momento mais íntimo seja qual for ele, trazendo para você conforto e segurança! "
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/whatsapp-image-2023-01-31-at-11.28.05.jpeg",
+          "link": "https://ludylingerie.netlify.app/calcinhas"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
