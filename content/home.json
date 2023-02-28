@@ -70,17 +70,17 @@
       "headless": false
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2023-01-17-at-15.12.43-1-.jpeg",
-      "link": "https://ludylingerie.netlify.app/sutia-com-bojo-soft-modelo-conforto-sem-aro"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "6266d5b23da6d37bc20a742e:categories:Body:/body",
-      "sort": "news"
+      "collection_id": "62c48b88eb85911216770b50:categories:3/4 Store Trifil:/34-store-trifil",
+      "sort": "lowest_price"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2023-01-17-at-15.12.43-1-.jpeg",
+      "link": "https://ludylingerie.netlify.app/sutia-com-bojo-soft-modelo-conforto-sem-aro"
     },
     {
       "type": "collection-shelf",
