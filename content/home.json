@@ -57,8 +57,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "62c48b88eb85911216770b50:categories:3/4 Store Trifil:/34-store-trifil",
-      "sort": "lowest_price"
+      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Demillus:/demillus",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
