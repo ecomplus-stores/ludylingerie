@@ -20,15 +20,6 @@
       "description": "Somos uma loja que nasceu para levantar sua autoestima, valorizando o seu momento mais íntimo seja qual for ele, trazendo para você conforto e segurança! "
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/whatsapp-image-2023-01-31-at-11.51.14.jpeg",
-          "link": "https://ludylingerie.netlify.app/calcinhas"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
@@ -50,7 +41,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2023-01-31-at-11.28.04.jpeg",
+      "img": "/img/uploads/whatsapp-image-2023-02-28-at-16.19.06.jpeg",
       "link": "https://ludylingerie.netlify.app/demillus"
     },
     {
