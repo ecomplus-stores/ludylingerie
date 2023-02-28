@@ -75,7 +75,7 @@
       "limit": 12,
       "page": 2,
       "collection_id": "62c48b88eb85911216770b50:categories:3/4 Store Trifil:/34-store-trifil",
-      "sort": "offers"
+      "sort": "lowest_price"
     },
     {
       "type": "responsive-banner",
