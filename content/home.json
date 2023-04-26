@@ -73,14 +73,6 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "headless": false,
-      "collection_id": "63fa2db6f4167e223c9d038e:categories:Pijamas:/pijamas"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": false,
@@ -91,6 +83,14 @@
           "img": "/img/uploads/whatsapp-image-2023-03-08-at-16.09.07.jpeg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "headless": false,
+      "collection_id": "63fa2db6f4167e223c9d038e:categories:Pijamas:/pijamas"
     }
   ]
 }
