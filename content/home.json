@@ -54,6 +54,23 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-04-26-at-12.42.00-2-.jpeg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-04-26-at-12.42.00-1-.jpeg"
+        }
+      ]
     }
   ]
 }
