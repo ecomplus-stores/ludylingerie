@@ -87,6 +87,18 @@
       "page": 2,
       "headless": false,
       "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 0,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-04-26-at-12.42.01-1-.jpeg"
+        }
+      ]
     }
   ]
 }
