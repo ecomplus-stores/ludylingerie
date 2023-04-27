@@ -82,11 +82,11 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 2,
       "headless": false,
-      "collection_id": "63fa2db6f4167e223c9d038e:categories:Pijamas:/pijamas"
+      "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite"
     }
   ]
 }
