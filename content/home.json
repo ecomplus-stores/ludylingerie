@@ -94,6 +94,10 @@
       "page": 2,
       "headless": false,
       "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2023-04-26-at-12.42.00-2-.jpeg"
     }
   ]
 }
