@@ -95,6 +95,19 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/whatsapp-image-2023-05-22-at-16.52.35.jpeg"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-05-30-at-13.33.27-1-.jpeg",
+          "link": "https://ludylingerie.netlify.app/linha-noite"
+        }
+      ]
     }
   ]
 }
