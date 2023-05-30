@@ -51,6 +51,19 @@
       "link": "https://ludylingerie.netlify.app/conjunto-ayla"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-05-30-at-13.33.27-3-.jpeg",
+          "link": "https://ludylingerie.netlify.app/calcinhas"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -63,19 +76,6 @@
       "limit": 12,
       "page": 1,
       "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-04-26-at-12.42.01-2-.jpeg",
-          "link": "https://ludylingerie.netlify.app/calcinha-rendada"
-        }
-      ]
     },
     {
       "type": "banner-slider",
