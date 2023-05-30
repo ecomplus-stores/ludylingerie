@@ -72,6 +72,10 @@
       "img": "/img/uploads/whatsapp-image-2023-05-30-at-16.10.12.jpeg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2023-05-30-at-16.42.22.jpeg"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
