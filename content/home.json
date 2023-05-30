@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": false,
@@ -19,10 +23,6 @@
       "type": "page-title",
       "title": "O AMOR ESTÁ NO AR!",
       "description": "DIA DOS NAMORADOS É AQUI NA LUDY LINGERIE"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "banner-slider",
