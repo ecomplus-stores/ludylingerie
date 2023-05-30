@@ -120,6 +120,13 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/whatsapp-image-2023-05-05-at-15.52.32.jpeg"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "headless": true
     }
   ]
 }
