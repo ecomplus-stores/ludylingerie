@@ -3,10 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 0,
       "full_width": false,
@@ -135,6 +131,10 @@
       "limit": 12,
       "page": 2,
       "headless": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
