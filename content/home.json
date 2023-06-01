@@ -130,7 +130,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "headless": true
+      "headless": false,
+      "collection_id": "64776454a0e875411ea56696:categories:Dia dos Namorados:/dia-dos-namorados"
     },
     {
       "type": "info-bar",
