@@ -101,8 +101,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "sort": "highest_price",
-      "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite"
+      "sort": "news",
+      "collection_id": "625ef44d3da6d37bc2ed765c:categories:Acessórios:/acessorios"
     },
     {
       "type": "responsive-banner",
