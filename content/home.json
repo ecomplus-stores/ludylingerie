@@ -117,6 +117,10 @@
       "collection_id": "61d9cc4b0c7c727225fa806d:categories:Conjuntos:/conjuntos"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2023-07-04-at-14.45.53.jpeg"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
