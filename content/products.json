@@ -23,6 +23,18 @@
     {
       "type": "product-description",
       "enabled": true
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/whatsapp-image-2023-07-04-at-14.45.49.jpeg"
+        }
+      ]
     }
   ]
 }
