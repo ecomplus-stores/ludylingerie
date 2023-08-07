@@ -51,10 +51,6 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2023-07-03-at-17.02.24-2-.jpeg"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/whatsapp-image-2023-07-04-at-14.45.49.jpeg"
     },
     {
@@ -73,7 +69,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-07-03-at-17.02.26-1-.jpeg",
+          "img": "/img/uploads/whatsapp-image-2023-08-01-at-17.21.06.jpeg",
           "link": ""
         }
       ]
