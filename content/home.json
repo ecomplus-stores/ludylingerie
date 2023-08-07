@@ -29,11 +29,6 @@
       "sort": "slug"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2023-08-01-at-17.21.06-1-.jpeg",
-      "link": ""
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -41,7 +36,7 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-07-03-at-17.02.25.jpeg",
+          "img": "/img/uploads/whatsapp-image-2023-08-01-at-17.21.06-1-.jpeg",
           "link": ""
         }
       ]
