@@ -91,8 +91,12 @@
       "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/whatsapp-image-2023-07-04-at-14.45.53.jpeg"
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 10,
+      "page": 2,
+      "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/34-store-trifil",
+      "sort": "lowest_price"
     },
     {
       "type": "info-bar",
