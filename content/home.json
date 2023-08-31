@@ -87,6 +87,11 @@
       "sort": "lowest_price"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
