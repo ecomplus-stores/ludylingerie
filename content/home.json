@@ -21,14 +21,6 @@
       "description": "Prevenir é um ato de amor com você e com o seu corpo."
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 3,
-      "collection_id": "61d9cc650c7c727225fa8098:categories:Shorts Doll:/shorts-doll",
-      "sort": "lowest_price"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -46,8 +38,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "61d9cc5a0c7c727225fa8086:categories:Camisolas:/camisolas",
-      "sort": "lowest_price"
+      "collection_id": "61d9cc650c7c727225fa8098:categories:Shorts Doll:/shorts-doll",
+      "sort": "news"
     },
     {
       "type": "info-bar",
