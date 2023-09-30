@@ -58,27 +58,6 @@
       "sort": "lowest_price"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/whatsapp-image-2023-08-31-at-16.43.32.jpeg",
-          "link": ""
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 10,
-      "page": 2,
-      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
-      "sort": "lowest_price"
-    },
-    {
       "type": "banners-grid",
       "banners": [
         {
@@ -91,8 +70,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite",
-      "sort": "slug"
+      "collection_id": "61d9cc4b0c7c727225fa806d:categories:Conjuntos:/conjuntos",
+      "sort": "highest_price"
     },
     {
       "type": "collection-shelf",
