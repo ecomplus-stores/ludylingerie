@@ -26,7 +26,7 @@
       "limit": 12,
       "page": 3,
       "collection_id": "61d9cc650c7c727225fa8098:categories:Shorts Doll:/shorts-doll",
-      "sort": "slug"
+      "sort": "lowest_price"
     },
     {
       "type": "banner-slider",
