@@ -47,7 +47,7 @@
       "limit": 12,
       "page": 2,
       "collection_id": "61d9cc5a0c7c727225fa8086:categories:Camisolas:/camisolas",
-      "sort": "news"
+      "sort": "slug"
     },
     {
       "type": "info-bar",
