@@ -2,14 +2,14 @@
   "domain": "ludylingerie.com.br",
   "currency_symbol": "R$",
   "primary_color": "#e346a8",
-  "repository": "ecomplus-stores/ludylingerie",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/ludylingerie",
   "logo": "/img/uploads/whatsapp-image-2022-04-13-at-16.16.50.jpeg",
-  "name": "Ludy Lingerie",
+  "name": "Ludy Lingerie ",
   "short_name": "Ludy Lingerie",
   "lang": "pt_br",
   "currency": "BRL",
