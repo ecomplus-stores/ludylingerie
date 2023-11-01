@@ -84,6 +84,10 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/cbe0d885-2924-44e2-a631-5c9c142a9338.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
