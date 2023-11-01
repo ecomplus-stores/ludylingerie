@@ -68,6 +68,10 @@
       "sort": "highest_price"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/174e1672-a73e-4487-a43e-2291771b1603.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
