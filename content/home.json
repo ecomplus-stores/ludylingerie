@@ -95,6 +95,10 @@
       "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/d0d7499e-cfde-4e32-a013-a23039f6acfa.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
