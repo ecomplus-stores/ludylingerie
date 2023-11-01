@@ -47,14 +47,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/whatsapp-image-2023-09-29-at-13.51.26-1-.jpeg"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
           "img": "/img/uploads/whatsapp-image-2022-06-28-at-14.29.10.jpeg"
         }
       ]
@@ -69,7 +61,7 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/174e1672-a73e-4487-a43e-2291771b1603.jpg"
+      "img": "/img/uploads/whatsapp-image-2022-12-15-at-11.13.44.jpeg"
     },
     {
       "type": "collection-shelf",
