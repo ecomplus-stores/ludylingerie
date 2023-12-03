@@ -24,8 +24,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias",
-      "sort": "news"
+      "collection_id": "61d9cc1a0c7c727225fa8017:categories:Calcinhas:/calcinhas",
+      "sort": "slug"
     },
     {
       "type": "info-bar",
