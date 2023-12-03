@@ -25,7 +25,7 @@
       "limit": 12,
       "page": 2,
       "collection_id": "625ef44d3da6d37bc2ed765c:categories:Acessórios:/acessorios",
-      "sort": "slug"
+      "sort": "lowest_price"
     },
     {
       "type": "info-bar",
