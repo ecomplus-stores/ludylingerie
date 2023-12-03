@@ -76,6 +76,12 @@
       "img": "/img/uploads/0eb61762-734c-4638-8b54-b8a2b5fd2111.jpg"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": null
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/a0847583-c442-4da9-a840-aff0546e6cfa.jpg"
     },
