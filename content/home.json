@@ -32,8 +32,16 @@
       "sort": "lowest_price"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/ab14a859-449d-4bed-8ee8-46162e79de7f.jpg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/ab14a859-449d-4bed-8ee8-46162e79de7f.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
