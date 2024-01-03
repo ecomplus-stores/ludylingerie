@@ -48,28 +48,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias",
-      "sort": "news"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/891b6a4e-aab7-4a8c-abf7-3d692d97b460.jpg"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": "61d9cc650c7c727225fa8098:categories:Shorts Doll:/shorts-doll-noite",
-      "sort": "news"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/215a6df0-b4e1-42b6-bf84-eeb5b731e9cf.jpg"
+      "collection_id": "61d9cc5a0c7c727225fa8086:categories:Camisolas:/camisolas",
+      "sort": "offers"
     },
     {
       "type": "collection-shelf",
@@ -78,6 +58,11 @@
       "page": 2,
       "sort": "news",
       "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     },
     {
       "type": "responsive-banner",
