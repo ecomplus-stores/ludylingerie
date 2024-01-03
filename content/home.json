@@ -69,15 +69,7 @@
       "limit": 12,
       "page": 2,
       "sort": "offers",
-      "collection_id": "61d9cc5a0c7c727225fa8086:categories:Camisolas:/camisolas"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/a0847583-c442-4da9-a840-aff0546e6cfa.jpg"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/68108998-e2f7-404f-9945-393926e2f019.jpg"
+      "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size"
     },
     {
       "type": "collection-shelf",
