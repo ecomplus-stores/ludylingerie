@@ -4,13 +4,13 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 0,
+      "autoplay": 1000,
       "full_width": false,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/db14a8e5-7a5c-4fef-beb5-0badc4af0bea.jpg"
+          "img": "/img/uploads/2cf3e702-def8-4366-84d0-5e2f6c95b8d5.jpg"
         }
       ]
     },
