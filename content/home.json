@@ -33,10 +33,6 @@
       "description": "Com lingeries nova!"
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
