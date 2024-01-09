@@ -1,7 +1,8 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil"
+    "text": "Enviamos para todo o Brasil",
+    "title": "Frete Grátis para Sul e Sudeste nas compras acima R$249,00"
   },
   "installments": {
     "show": true,
