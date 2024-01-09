@@ -127,6 +127,18 @@
       "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/c3101822-27f8-48b6-8186-870cce720b49.jpg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
