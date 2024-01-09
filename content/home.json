@@ -96,7 +96,8 @@
       "limit": 12,
       "page": 2,
       "sort": "offers",
-      "collection_id": "61d9cc1a0c7c727225fa8017:categories:Calcinhas:/calcinhas"
+      "collection_id": "61d9cc1a0c7c727225fa8017:categories:Calcinhas:/calcinhas",
+      "headless": true
     },
     {
       "type": "collection-shelf",
