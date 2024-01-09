@@ -45,7 +45,8 @@
       "limit": 12,
       "page": 2,
       "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size",
-      "sort": "highest_price"
+      "sort": "highest_price",
+      "headless": true
     },
     {
       "type": "banner-slider",
