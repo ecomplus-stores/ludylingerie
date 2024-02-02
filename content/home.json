@@ -84,12 +84,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/b98e242e-83a7-4753-a9bb-c4c405846ad8.jpg",
-          "link": "https://ludylingerie.com.br/calcinhas"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "collection-shelf",
