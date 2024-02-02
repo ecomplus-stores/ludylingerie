@@ -132,13 +132,7 @@
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/c3101822-27f8-48b6-8186-870cce720b49.jpg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "dynamic-showcase",
