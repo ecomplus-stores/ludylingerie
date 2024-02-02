@@ -104,6 +104,10 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2024-02-01-at-14.04.44-1-.jpeg"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
