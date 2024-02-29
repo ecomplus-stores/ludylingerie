@@ -50,24 +50,11 @@
       "headless": true
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/b26b3602-db1b-414e-a68c-fc6e8da5fefe.jfif",
-          "link": ""
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias",
+      "collection_id": "6564e1172cd6b65959bf4f3c:categories:Básica:/basica",
       "sort": "views",
       "headless": false
     },
