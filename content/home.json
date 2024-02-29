@@ -69,7 +69,7 @@
       "page": 2,
       "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias",
       "sort": "views",
-      "headless": true
+      "headless": false
     },
     {
       "type": "banner-slider",
