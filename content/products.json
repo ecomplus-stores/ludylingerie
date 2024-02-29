@@ -25,10 +25,6 @@
       "enabled": true
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -39,6 +35,10 @@
           "img": "/img/uploads/448da62d-8d26-4278-ae0f-941cac1b95bd.jfif"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
