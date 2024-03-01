@@ -130,6 +130,10 @@
       "sort": "sales"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/55d69399-ea68-454c-af95-57001e83dbad.jfif"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
