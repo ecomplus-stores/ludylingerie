@@ -88,10 +88,6 @@
       "sort": "news"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/448da62d-8d26-4278-ae0f-941cac1b95bd.jfif"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -104,6 +100,10 @@
       "autoplay": 9000,
       "full_width": true,
       "slides": []
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/9844f96f-1bc3-476f-95cd-5779c7f89b15.jfif"
     },
     {
       "type": "collection-shelf",
