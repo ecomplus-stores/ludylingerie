@@ -43,8 +43,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "65de3d5487ab487fbfcb6b8f:categories:PROMOÇÃO:/promocao",
-      "sort": "highest_price",
+      "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil",
+      "sort": "views",
       "headless": false
     },
     {
