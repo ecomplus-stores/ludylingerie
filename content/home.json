@@ -27,12 +27,25 @@
       "description": "Comprar lingerie é muito especial e íntimo"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/af819ed6-ac24-44d5-a8b3-3508b7487391.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 2,
       "collection_id": "65de3d5487ab487fbfcb6b8f:categories:PROMOÇÃO:/promocao",
-      "sort": "highest_price"
+      "sort": "highest_price",
+      "headless": false
     },
     {
       "type": "collection-shelf",
