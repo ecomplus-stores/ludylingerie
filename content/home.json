@@ -107,6 +107,18 @@
       "sort": "views"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/8a79a211-3249-4f14-a86f-aa1c11cbe201.jpg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
