@@ -119,6 +119,15 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "sort": "lowest_price",
+      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
+      "headless": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
