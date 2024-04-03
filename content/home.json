@@ -157,7 +157,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63e517ebf4167e223c88b6b1:categories:Modeladores:/modeladores",
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "dynamic-showcase",
