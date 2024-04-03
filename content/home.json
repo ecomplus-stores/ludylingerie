@@ -87,6 +87,18 @@
       "collection_id": "623222948bd0103c54fbbb97:categories:Segunda Pele:/segunda-pele"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/dbdedfa7-448a-4d51-a903-2f98a84daeee.jpg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
