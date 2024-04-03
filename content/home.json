@@ -48,15 +48,6 @@
       "headless": false
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": "623222948bd0103c54fbbb97:categories:Segunda Pele:/segunda-pele",
-      "sort": "views",
-      "headless": true
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": true,
@@ -67,6 +58,15 @@
           "img": "/img/uploads/b54a97f0-42dd-4d28-9e59-bf890c840470.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "623222948bd0103c54fbbb97:categories:Segunda Pele:/segunda-pele",
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "collection-shelf",
