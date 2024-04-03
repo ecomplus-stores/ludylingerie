@@ -45,7 +45,7 @@
       "page": 2,
       "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil",
       "sort": "views",
-      "headless": false
+      "headless": true
     },
     {
       "type": "banner-slider",
