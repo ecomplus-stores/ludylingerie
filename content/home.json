@@ -45,7 +45,7 @@
       "page": 2,
       "collection_id": "662ffa96ee85900185f0e982:categories:Dia das Mães:/dia-das-maes",
       "sort": "news",
-      "headless": true
+      "headless": false
     },
     {
       "type": "banner-slider",
