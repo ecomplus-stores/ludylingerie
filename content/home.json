@@ -65,7 +65,8 @@
       "limit": 12,
       "page": 2,
       "collection_id": "63fa2db6f4167e223c9d038e:categories:Pijamas:/pijamas",
-      "headless": false
+      "headless": false,
+      "sort": "views"
     },
     {
       "type": "banner-slider",
