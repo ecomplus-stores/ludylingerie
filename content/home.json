@@ -185,6 +185,18 @@
       "headless": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/eed23927-7a18-4f68-87fd-1a92e3f12b9e.jpg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
