@@ -149,7 +149,7 @@
       "page": 2,
       "sort": "sales",
       "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size",
-      "headless": true
+      "headless": false
     },
     {
       "type": "banner-slider",
