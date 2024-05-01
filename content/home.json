@@ -164,6 +164,18 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/d84e308f-e533-471f-b410-ddce4d45f5ca.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
