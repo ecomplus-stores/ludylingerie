@@ -43,9 +43,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "662ffa96ee85900185f0e982:categories:Dia das Mães:/dia-das-maes",
-      "sort": "news",
-      "headless": false
+      "collection_id": "664fbbd4f4e6d85ab291d958:categories:Dia dos Namorados:/dia-dos-namorados",
+      "sort": "views",
+      "headless": true
     },
     {
       "type": "banner-slider",
