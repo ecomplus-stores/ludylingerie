@@ -96,7 +96,7 @@
       "page": 2,
       "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size",
       "sort": "views",
-      "headless": true
+      "headless": false
     },
     {
       "type": "banner-slider",
