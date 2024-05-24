@@ -218,10 +218,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 3,
+      "page": 2,
       "headless": true,
-      "collection_id": "61d9cc4b0c7c727225fa806d:categories:Conjuntos:/conjuntos",
-      "sort": "highest_price"
+      "collection_id": "623222948bd0103c54fbbb97:categories:Segunda Pele:/segunda-pele",
+      "sort": "news"
     },
     {
       "type": "dynamic-showcase",
