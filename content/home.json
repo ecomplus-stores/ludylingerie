@@ -221,7 +221,7 @@
       "page": 3,
       "headless": true,
       "collection_id": "61d9cc4b0c7c727225fa806d:categories:Conjuntos:/conjuntos",
-      "sort": "news"
+      "sort": "highest_price"
     },
     {
       "type": "dynamic-showcase",
