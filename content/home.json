@@ -155,7 +155,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
-      "page": 2,
+      "page": 3,
       "sort": "sales",
       "collection_id": "664fbbd4f4e6d85ab291d958:categories:Dia dos Namorados:/dia-dos-namorados",
       "headless": false
