@@ -76,9 +76,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "61d9cc4b0c7c727225fa806d:categories:Conjuntos:/conjuntos",
+      "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil",
       "headless": true,
-      "sort": "lowest_price"
+      "sort": "highest_price"
     },
     {
       "type": "banner-slider",
