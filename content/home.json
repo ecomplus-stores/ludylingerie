@@ -88,6 +88,18 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/arte-25.jpeg"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/arte-15.jpeg"
         }
       ]
