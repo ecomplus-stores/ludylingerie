@@ -146,10 +146,6 @@
       "headless": false
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -168,6 +164,10 @@
           "img": "/img/uploads/arte-11.jpeg"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "dynamic-showcase",
