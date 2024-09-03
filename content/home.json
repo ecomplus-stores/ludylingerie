@@ -43,9 +43,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "63fa2db6f4167e223c9d038e:categories:Pijamas:/pijamas",
+      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
       "sort": "views",
-      "headless": true
+      "headless": false
     },
     {
       "type": "banner-slider",
