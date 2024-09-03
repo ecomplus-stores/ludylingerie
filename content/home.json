@@ -45,7 +45,7 @@
       "page": 2,
       "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
       "sort": "views",
-      "headless": false
+      "headless": true
     },
     {
       "type": "banner-slider",
