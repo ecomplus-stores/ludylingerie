@@ -168,7 +168,19 @@
       "limit": 12,
       "page": 2,
       "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias",
-      "sort": "sales"
+      "sort": "news"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/setembro-2.jpeg"
+        }
+      ]
     },
     {
       "type": "info-bar",
