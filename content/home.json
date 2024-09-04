@@ -163,14 +163,6 @@
       "headless": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias",
-      "sort": "news"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -181,6 +173,15 @@
           "img": "/img/uploads/setembro-2.jpeg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size",
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "info-bar",
