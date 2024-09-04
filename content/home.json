@@ -158,8 +158,9 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "62bb3d9deb859112166a9d18:categories:Gestante:/gestante",
-      "sort": "views"
+      "collection_id": "61d9cc4b0c7c727225fa806d:categories:Conjuntos:/conjuntos",
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "collection-shelf",
