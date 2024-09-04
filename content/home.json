@@ -63,7 +63,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
-      "page": 2,
+      "page": 1,
       "headless": true,
       "collection_id": "63e517ebf4167e223c88b6b1:categories:Modeladores:/modeladores",
       "sort": "views"
