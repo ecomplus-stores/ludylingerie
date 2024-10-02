@@ -209,12 +209,8 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "headless": true,
-      "collection_id": "669ac47ef4e6d85ab2d85768:categories:Sem aro-Com bojo:/sem-aro-com-bojo"
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "banner-slider",
@@ -227,10 +223,6 @@
           "img": "/img/uploads/outubro-9.jpeg"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "dynamic-showcase",
