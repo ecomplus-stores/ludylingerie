@@ -197,6 +197,18 @@
       "headless": true
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/outubro-4.jpeg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
