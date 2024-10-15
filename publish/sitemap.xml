@@ -2054,6 +2054,12 @@
     </url>
   
     <url>
+      <loc>https://ludylingerie.com.br/conjunto-luana</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://ludylingerie.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2120,13 +2126,13 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/app/index</loc>
+      <loc>https://ludylingerie.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/admin/index</loc>
+      <loc>https://ludylingerie.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
