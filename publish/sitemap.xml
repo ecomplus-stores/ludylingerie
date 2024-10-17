@@ -2066,13 +2066,13 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/pages/faq</loc>
+      <loc>https://ludylingerie.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/pages/entrega</loc>
+      <loc>https://ludylingerie.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2084,13 +2084,13 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/pages/sobre-nos</loc>
+      <loc>https://ludylingerie.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/pages/privacidade</loc>
+      <loc>https://ludylingerie.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -2114,15 +2114,15 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ludylingerie.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludylingerie.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
