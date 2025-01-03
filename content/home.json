@@ -65,8 +65,8 @@
       "limit": 12,
       "page": 1,
       "headless": true,
-      "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil",
-      "sort": "highest_price"
+      "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias",
+      "sort": "offers"
     },
     {
       "type": "banner-slider",
@@ -81,18 +81,6 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/novembro-12.jpeg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -100,113 +88,6 @@
       "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite",
       "sort": "lowest_price",
       "headless": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/novembro-7.jpeg"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size",
-      "headless": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/novembro-11.jpeg"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite",
-      "sort": "lowest_price",
-      "headless": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/novembro-14.jpeg"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil",
-      "sort": "views",
-      "headless": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/novembro-3.jpeg"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/novembro-1.jpeg"
-        }
-      ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "669a7826f4e6d85ab2d7d400:categories:Tomara que caia:/tomara-que-caia",
-      "sort": "news",
-      "headless": true
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/novembro-.jpeg"
-        }
-      ]
     },
     {
       "type": "info-bar",
