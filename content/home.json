@@ -43,8 +43,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "61d9cc4b0c7c727225fa806d:categories:Conjuntos:/conjuntos",
-      "sort": "lowest_price",
+      "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size",
+      "sort": "sales",
       "headless": true
     },
     {
