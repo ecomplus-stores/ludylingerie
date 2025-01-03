@@ -65,8 +65,8 @@
       "limit": 12,
       "page": 1,
       "headless": true,
-      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
-      "sort": "news"
+      "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil",
+      "sort": "highest_price"
     },
     {
       "type": "banner-slider",
