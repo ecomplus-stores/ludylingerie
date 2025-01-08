@@ -114,6 +114,18 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/arte-janeiro-4.jpg"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
