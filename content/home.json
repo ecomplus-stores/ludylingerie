@@ -81,13 +81,22 @@
       ]
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/arte-janeiro-6.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "limit": 12,
-      "page": 2,
-      "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite",
-      "sort": "lowest_price",
-      "headless": true
+      "page": 1
     },
     {
       "type": "info-bar",
