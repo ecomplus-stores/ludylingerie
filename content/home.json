@@ -63,7 +63,7 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
-      "page": 1,
+      "page": 2,
       "headless": true,
       "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil",
       "sort": "highest_price"
