@@ -45,7 +45,7 @@
       "page": 2,
       "collection_id": "61d9cc1a0c7c727225fa8017:categories:Calcinhas:/calcinhas",
       "sort": "lowest_price",
-      "headless": true
+      "headless": false
     },
     {
       "type": "banner-slider",
