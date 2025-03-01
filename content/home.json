@@ -171,6 +171,18 @@
       "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus"
     },
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/marco-2.jpeg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
