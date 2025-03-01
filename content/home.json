@@ -60,6 +60,14 @@
       ]
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "61d9cc3d0c7c727225fa8055:categories:Sutiãs:/sutias",
+      "sort": "views"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
