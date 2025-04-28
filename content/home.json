@@ -27,6 +27,10 @@
       "description": "Mãe, pérola preciosa que expressa a essência do amor!"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2025-04-28-at-13.45.04-1-.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
