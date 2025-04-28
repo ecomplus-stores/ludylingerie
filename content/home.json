@@ -110,6 +110,10 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/arte-maio-6.jpeg"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-maio-15.jpeg"
     }
   ]
 }
