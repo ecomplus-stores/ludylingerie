@@ -44,9 +44,8 @@
       "headless": true
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-maio-14.jpeg"
     }
   ]
 }
