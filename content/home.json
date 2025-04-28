@@ -50,6 +50,14 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/arte-maio-7.jpeg"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "63fa2db6f4167e223c9d038e:categories:Pijamas:/pijamas",
+      "headless": true
     }
   ]
 }
