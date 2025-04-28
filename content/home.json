@@ -31,6 +31,10 @@
       "img": "/img/uploads/whatsapp-image-2025-04-28-at-13.45.04-1-.jpeg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-maio-12.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
