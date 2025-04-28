@@ -48,6 +48,15 @@
       "img": "/img/uploads/arte-maio-5.jpeg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
+      "sort": "news",
+      "headless": true
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/arte-maio-7.jpeg"
     },
