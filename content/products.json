@@ -25,18 +25,6 @@
       "enabled": true
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/arte-maio-14.jpeg"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     }
