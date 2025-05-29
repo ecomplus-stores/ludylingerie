@@ -42,7 +42,7 @@
       "limit": 12,
       "page": 2,
       "collection_id": "68260569578b5f795418e4c7:categories:Dia dos Namorados:/dia-dos-namorados",
-      "sort": "views",
+      "sort": "lowest_price",
       "headless": true
     },
     {
