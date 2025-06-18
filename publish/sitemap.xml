@@ -2072,6 +2072,12 @@
     </url>
   
     <url>
+      <loc>https://ludylingerie.com.br/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ludylingerie.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -2085,12 +2091,6 @@
   
     <url>
       <loc>https://ludylingerie.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://ludylingerie.com.br/404</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
