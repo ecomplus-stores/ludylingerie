@@ -52,7 +52,7 @@
       "page": 2,
       "collection_id": "63fa2d71f4167e223c9d034d:categories:Linha Noite:/linha-noite",
       "headless": false,
-      "sort": "news"
+      "sort": "slug"
     },
     {
       "type": "collection-shelf",
