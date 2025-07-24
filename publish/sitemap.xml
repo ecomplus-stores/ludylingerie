@@ -2090,6 +2090,12 @@
     </url>
   
     <url>
+      <loc>https://ludylingerie.com.br/costas-estreitas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ludylingerie.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2144,15 +2150,15 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/search</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ludylingerie.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludylingerie.com.br/search</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
