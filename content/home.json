@@ -122,6 +122,15 @@
       "img": "/img/uploads/arte-agosto-25-14.jpg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 13,
+      "page": 2,
+      "headless": false,
+      "collection_id": "62bb3d9deb859112166a9d18:categories:Gestante:/gestante",
+      "sort": "news"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
