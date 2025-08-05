@@ -101,6 +101,10 @@
       "collection_id": "625ef44d3da6d37bc2ed765c:categories:Acessórios:/acessorios"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-agosto-25-15.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
