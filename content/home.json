@@ -79,6 +79,15 @@
       "img": "/img/uploads/arte-agosto-25-16.jpg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": "lowest_price",
+      "collection_id": "623222948bd0103c54fbbb97:categories:Segunda Pele:/segunda-pele"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
