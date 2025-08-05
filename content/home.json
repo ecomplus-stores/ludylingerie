@@ -54,6 +54,10 @@
       "collection_id": "68503e85578b5f795440a5b9:categories:Linha Nayane:/linha-nayane"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-agosto-25-4.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
