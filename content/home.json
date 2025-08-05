@@ -38,6 +38,10 @@
       "headless": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-agosto-25-2.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
