@@ -46,6 +46,14 @@
       "img": "/img/uploads/arte-agosto-25-7.jpg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "sort": "news",
+      "collection_id": "68503e85578b5f795440a5b9:categories:Linha Nayane:/linha-nayane"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
