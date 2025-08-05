@@ -25,6 +25,10 @@
       "description": "Peças que unem funcionalidade, beleza e conforto. Como você nunca viu."
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-agosto-25-13.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
