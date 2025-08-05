@@ -58,6 +58,10 @@
       "img": "/img/uploads/arte-agosto-25-4.jpg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-agosto-25-3.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
