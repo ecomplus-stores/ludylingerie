@@ -148,6 +148,10 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-agosto-25-12.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
