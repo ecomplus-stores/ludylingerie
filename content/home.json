@@ -161,6 +161,10 @@
       "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-agosto-25.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
