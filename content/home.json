@@ -62,6 +62,15 @@
       "img": "/img/uploads/arte-agosto-25-3.jpg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 13,
+      "page": 2,
+      "sort": "views",
+      "collection_id": "62c48b88eb85911216770b50:categories:Linha Trifil:/zonnatrifil",
+      "headless": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
