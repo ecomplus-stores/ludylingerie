@@ -88,6 +88,10 @@
       "collection_id": "623222948bd0103c54fbbb97:categories:Segunda Pele:/segunda-pele"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-agosto-25-9.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
