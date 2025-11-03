@@ -45,6 +45,10 @@
       "sort": "lowest_price"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/sutia-plus-size-base-reta-renda-3.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
