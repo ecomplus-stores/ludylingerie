@@ -25,6 +25,10 @@
       "description": "Lingerie não é só para o corpo, é para alma. Sinta-se linda, sempre!"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/pijama-regatinha-suede-.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
