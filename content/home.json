@@ -49,6 +49,14 @@
       "img": "/img/uploads/sutia-plus-size-base-reta-renda-3.jpg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "6230d2038bd0103c54f7fdd8:categories:Plus Size:/plus-size",
+      "sort": "views"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
