@@ -25,10 +25,6 @@
       "description": "Lingerie não é só para o corpo, é para alma. Sinta-se linda, sempre!"
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/arte-agosto-25.jpg"
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
