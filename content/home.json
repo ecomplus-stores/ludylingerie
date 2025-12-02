@@ -104,6 +104,10 @@
       "img": "/img/uploads/arte-12-2-4.jpg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-12-2-15.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
