@@ -121,6 +121,15 @@
       "img": "/img/uploads/arte-12-2-12.jpg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "headless": true,
+      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
+      "sort": "highest_price"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
