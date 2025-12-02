@@ -71,6 +71,10 @@
       "headless": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/arte-12-2-3.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
