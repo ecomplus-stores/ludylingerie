@@ -176,6 +176,18 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/adesivos-ludmila-002.png"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/03-10.jfif"
         }
       ]
@@ -270,18 +282,6 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/arte-02.jpeg"
-        }
-      ]
     }
   ]
 }
