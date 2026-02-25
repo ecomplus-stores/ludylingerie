@@ -64,7 +64,7 @@
       "page": 2,
       "collection_id": "68503e85578b5f795440a5b9:categories:Linha Nayane:/linha-nayane",
       "sort": "views",
-      "headless": true
+      "headless": false
     },
     {
       "type": "dynamic-showcase",
