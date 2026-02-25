@@ -197,7 +197,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "headless": true,
+      "headless": false,
       "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
       "sort": "news"
     },
