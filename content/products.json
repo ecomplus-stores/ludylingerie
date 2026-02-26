@@ -29,6 +29,10 @@
       "img": "/img/uploads/arte-02.jpeg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/adesivos-ludmila-002.png"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
