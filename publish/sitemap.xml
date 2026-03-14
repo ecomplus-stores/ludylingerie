@@ -2000,12 +2000,6 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://ludylingerie.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -2013,6 +2007,12 @@
   
     <url>
       <loc>https://ludylingerie.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludylingerie.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
