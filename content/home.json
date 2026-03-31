@@ -164,18 +164,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/adesivos-ludmila-002.png"
-        }
-      ]
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/03-10.jfif"
         }
       ]
