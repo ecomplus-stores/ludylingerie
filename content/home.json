@@ -25,18 +25,6 @@
       "description": "O Presente Perfeito está aqui!"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/03-06.jfif"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
