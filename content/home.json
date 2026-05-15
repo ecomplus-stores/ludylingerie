@@ -49,7 +49,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 3,
-      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus"
+      "collection_id": "61d9cc1a0c7c727225fa8017:categories:Calcinhas:/calcinhas",
+      "headless": true
     },
     {
       "type": "dynamic-showcase",
