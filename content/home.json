@@ -119,6 +119,10 @@
       "headless": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/namorados-26.-9.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
