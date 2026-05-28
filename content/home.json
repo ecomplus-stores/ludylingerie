@@ -73,6 +73,10 @@
       "sort": "highest_price"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/namorados-26.-10.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
