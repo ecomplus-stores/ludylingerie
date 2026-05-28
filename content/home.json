@@ -110,6 +110,15 @@
       "img": "/img/uploads/namorados-26.-3.jpeg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 2,
+      "collection_id": "66e99b1c9e4b2e07f50ec861:categories:Sem Bojo:/sem-bojo",
+      "sort": "highest_price",
+      "headless": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
