@@ -144,15 +144,6 @@
       "img": "/img/uploads/namorados-26.-12.jpeg"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 2,
-      "collection_id": "6564e56b2cd6b65959bf5aec:categories:Sensual:/sensual",
-      "sort": "slug",
-      "headless": true
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/namorados-26.-13.jpeg"
     },
