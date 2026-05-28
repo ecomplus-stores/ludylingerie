@@ -34,6 +34,10 @@
       "collection_id": "6a0756fa5cf40d16089f224d:categories:Dia dos Namorados:/dia-dos-namorados"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/namorados-26.-11.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
