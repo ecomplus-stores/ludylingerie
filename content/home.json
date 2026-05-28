@@ -140,6 +140,10 @@
       "img": "/img/uploads/namorados-26.-2.jpeg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/namorados-26.-12.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
