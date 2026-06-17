@@ -54,6 +54,15 @@
       "limit": 12,
       "page": 1,
       "collection_id": "68503e85578b5f795440a5b9:categories:Linha Nayane:/linha-nayane"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "625ef44d3da6d37bc2ed765c:categories:Acessórios:/acessorios",
+      "sort": "lowest_price",
+      "headless": false
     }
   ]
 }
