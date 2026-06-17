@@ -37,7 +37,8 @@
       "shuffle": true,
       "limit": 12,
       "page": 2,
-      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus"
+      "collection_id": "62322c1f8bd0103c54fbeea9:categories:Linha Demillus:/demillus",
+      "sort": "lowest_price"
     },
     {
       "type": "collection-shelf",
