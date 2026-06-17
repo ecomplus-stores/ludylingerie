@@ -25,6 +25,12 @@
       "description": "Por isso, selecionamos lingeries que unem qualidade, delicadeza e elegância em cada detalhe."
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
