@@ -30,7 +30,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "63fa2db6f4167e223c9d038e:categories:Pijamas:/pijamas",
-      "headless": true
+      "headless": false
     },
     {
       "type": "collection-shelf",
