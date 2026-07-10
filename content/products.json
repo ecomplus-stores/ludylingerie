@@ -25,6 +25,18 @@
       "enabled": true
     },
     {
+      "type": "review-carousel",
+      "autoplay": 9000,
+      "reviews": [
+        {
+          "nome": "Kátia Andrade",
+          "cidade": "Peruíbe",
+          "texto": "⭐ \"Amei o atendimento! As meninas me ajudaram a encontrar o tamanho perfeito. Com certeza volto!\""
+        }
+      ],
+      "title": "Depoimentos "
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/marco-9.jpeg"
     },
