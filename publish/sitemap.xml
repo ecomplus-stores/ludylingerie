@@ -1850,12 +1850,6 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://ludylingerie.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1868,15 +1862,15 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/posts/esta-loja-e-um-pwa</loc>
+      <loc>https://ludylingerie.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/404</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <loc>https://ludylingerie.com.br/posts/esta-loja-e-um-pwa</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
     </url>
   
     <url>
@@ -1892,19 +1886,25 @@
     </url>
   
     <url>
+      <loc>https://ludylingerie.com.br/404</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://ludylingerie.com.br/search</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/app/index</loc>
+      <loc>https://ludylingerie.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/admin/index</loc>
+      <loc>https://ludylingerie.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
