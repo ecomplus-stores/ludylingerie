@@ -38,6 +38,10 @@
       "headless": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/agosto9.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
