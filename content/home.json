@@ -55,6 +55,10 @@
       "sort": "news"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/agosto3.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
