@@ -42,6 +42,10 @@
       "img": "/img/uploads/agosto9.jpeg"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/agosto12.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
