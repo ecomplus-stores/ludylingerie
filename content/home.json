@@ -25,6 +25,10 @@
       "description": "Conforto, beleza e qualidade para todos os momentos."
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/agosto7.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
