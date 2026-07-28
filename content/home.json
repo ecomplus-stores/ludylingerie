@@ -95,6 +95,11 @@
       "sort": "slug"
     },
     {
+      "type": "responsive-banner",
+      "mobile_img": "",
+      "img": "/img/uploads/agosto6.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
