@@ -29,6 +29,15 @@
       "img": "/img/uploads/agosto7.jpeg"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6564e5b02cd6b65959bf5b57:categories:Algodão:/algodao",
+      "sort": "slug",
+      "headless": true
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
