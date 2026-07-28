@@ -67,6 +67,10 @@
       "sort": "views"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/agosto4.jpeg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "slug"
