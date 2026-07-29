@@ -3,6 +3,9 @@
     {
       "type": "search-engine",
       "enabled": true
+    },
+    {
+      "type": "page-title"
     }
   ]
 }
