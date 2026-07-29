@@ -41,6 +41,7 @@
     "citibank": false,
     "hiper": true,
     "mais": false,
+    "pix": true,
     "itau": false
   },
   "credits": ""
