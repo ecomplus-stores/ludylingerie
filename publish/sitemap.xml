@@ -1064,12 +1064,6 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/top-nature-algodao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://ludylingerie.com.br/sutia-desejo</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1730,12 +1724,6 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/liquida</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://ludylingerie.com.br/novidades</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1748,19 +1736,7 @@
     </url>
   
     <url>
-      <loc>https://ludylingerie.com.br/pages/faq</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://ludylingerie.com.br/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://ludylingerie.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1772,7 +1748,19 @@
     </url>
   
     <url>
+      <loc>https://ludylingerie.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://ludylingerie.com.br/pages/trocas</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://ludylingerie.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
