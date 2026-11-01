@@ -61,7 +61,7 @@
       "limit": 12,
       "page": 1,
       "collection_id": "625ef44d3da6d37bc2ed765c:categories:Acessórios:/acessorios",
-      "sort": "news"
+      "sort": "lowest_price"
     },
     {
       "type": "dynamic-showcase",
